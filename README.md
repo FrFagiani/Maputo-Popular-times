@@ -8,4 +8,5 @@ https://github.com/m-wrzr/populartimes
 > - The data is represented as a list of dictionaries, with responses according to the example above
 > - The populartimes data for each day is an array of length 24, with populartimes data starting from hour 0 to 23, the wait data is formatted similarly, popularity, current_popularity, rating, rating_n, time_wait, time_spent and phone are optional return parameters and only present if available.
 
+# Maputo polular timee map
 ![](/gis/Maputo_google-density-crop.gif "Maputo popular places")
